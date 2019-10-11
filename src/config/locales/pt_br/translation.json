@@ -47,8 +47,8 @@
     "expand": "Expandir",
     "home": "Página inicial",
     "notification": "Notificação",
-    "mention": "Mencionar",
-    "direct": "Direcionar mensagens",
+    "mention": "Menções",
+    "direct": "Mensagens Diretas",
     "follow_requests": "Solicitações para Seguir",
     "favourite": "Favorito",
     "local": "Linha do tempo Local",
@@ -58,112 +58,112 @@
     "lists": "Listas"
   },
   "header_menu": {
-    "home": "Home",
-    "notification": "Notification",
-    "mention": "Mention",
-    "favourite": "Favourite",
-    "follow_requests": "Follow Requests",
-    "direct_messages": "Direct Messages",
-    "local": "Local timeline",
-    "public": "Public timeline",
+    "home": "Página inicial",
+    "notification": "Notificação",
+    "mention": "Menções",
+    "favourite": "Favorito",
+    "follow_requests": "Solicitações para Seguir",
+    "direct_messages": "Mensagens Diretas",
+    "local": "Linha do tempo Local",
+    "public": "Linha do tempo Pública",
     "hashtag": "Hashtag",
-    "search": "Search",
-    "lists": "Lists",
-    "members": "Members",
+    "search": "Pesquisar",
+    "lists": "Listas",
+    "members": "Membros",
     "filter": {
-      "title": "Filter",
-      "placeholder": "Filter out by regular expressions",
-      "show_dms": "Show direct messages",
-      "show_reblogs": "Show reblogs",
-      "show_replies": "Show replies",
-      "apply": "Apply"
+      "title": "Filtro",
+      "placeholder": "Filtrar por palavra-chave",
+      "show_dms": "Mostrar mensagens diretas",
+      "show_reblogs": "Mostrar reblogs",
+      "show_replies": "Mostrar respostas",
+      "apply": "Aplicar"
     },
     "new_toot": "Toot",
-    "reload": "Reload",
-    "settings": "Settings"
+    "reload": "Recarregar",
+    "settings": "Configurações"
   },
   "settings": {
-    "title": "Settings",
+    "title": "Configurações",
     "general": {
-      "title": "General",
+      "title": "Geral",
       "toot": {
         "title": "Toot",
         "visibility": {
-          "description": "Customize default visibility of toot.",
-          "public": "Public",
-          "unlisted": "Unlisted",
-          "private": "Private",
+          "description": "Personalize a visibilidade padrão do toot.",
+          "public": "Público",
+          "unlisted": "Não listado",
+          "private": "Apenas seguidores",
           "direct": "Direct"
         },
         "sensitive": {
-          "description": "Mark media as sensitive by default"
+          "description": "Sempre marcar mídia como sensível"
         }
       }
     },
     "timeline": {
-      "title": "Timeline",
+      "title": "Linha do tempo",
       "unread_notification": {
-        "title": "Unread Notification",
-        "description": "Customize unread notifications for each timeline.",
-        "direct": "Direct Messages",
-        "local": "Local Timeline",
-        "public": "Public Timeline"
+        "title": "Notificações não-lidas",
+        "description": "Personalize notificações não-lidas para cada linha do tempo.",
+        "direct": "Mensagens Diretas",
+        "local": "Linha do tempo Local",
+        "public": "Linha do tempo Pública"
       }
     }
   },
   "preferences": {
-    "title": "Preferences",
+    "title": "Preferências",
     "general": {
-      "title": "General",
+      "title": "Geral",
       "sounds": {
-        "title": "Sounds",
-        "description": "Please set feedback sounds.",
-        "fav_rb": "When you favorite or boost the toot",
-        "toot": "When you post toot"
+        "title": "Sons",
+        "description": "Por favor, defina os sons de retorno.",
+        "fav_rb": "Quando você favorita ou promove o toot",
+        "toot": "Quando você publica o toot"
       },
       "timeline": {
-        "title": "Timeline",
-        "description": "Customize view in your timelines.",
-        "cw": "Always ignore contents warnings",
-        "nfsw": "Always ignore NFSW of medias",
-        "hideAllAttachments": "Hide all medias"
+        "title": "Linha do tempo",
+        "description": "Personalize sua linha do tempo.",
+        "cw": "Sempre ignorar avisos de conteúdo",
+        "nfsw": "Sempre ignorar avisos de NSFW para mídias",
+        "hideAllAttachments": "Esconder todas as mídias"
       },
       "other": {
-        "title": "Other options",
-        "launch": "Launch app on login"
+        "title": "Outras opcões",
+        "launch": "Abir app ao logar"
       }
     },
     "appearance": {
-      "title": "Appearance",
+      "title": "Aparência",
       "theme_color": "Theme color",
       "theme": {
-        "light": "Light",
-        "dark": "Dark",
-        "solarized_light": "SolarizedLight",
-        "solarized_dark": "SolarizedDark",
-        "kimbie_dark": "KimbieDark",
-        "custom": "Custom"
+        "light": "Claro",
+        "dark": "Escuro",
+        "solarized_light": "Claro Solarizado",
+        "solarized_dark": "Escuro Solarizado",
+        "kimbie_dark": "Escuro Kimbie",
+        "custom": "Personalizado"
       },
       "custom_theme": {
-        "background_color": "Base background",
-        "selected_background_color": "Focused background",
-        "global_header_color": "Account menu",
-        "side_menu_color": "Side menu",
-        "primary_color": "Primary font",
-        "regular_color": "Regular font",
-        "secondary_color": "Secondary font",
-        "border_color": "Border",
-        "header_menu_color": "Header menu",
-        "wrapper_mask_color": "Modal wrapper"
+        "background_color": "Fundo de base",
+        "selected_background_color": "Fundo de foco",
+        "global_header_color": "Menu de conta",
+        "side_menu_color": "Menu lateral",
+        "primary_color": "Fonte primária",
+        "regular_color": "Fonte regular",
+        "secondary_color": "Fonte secundária",
+        "border_color": "Borda",
+        "header_menu_color": "Cabeçalho",
+        "wrapper_mask_color": "Invólucro modal"
       },
-      "font_size": "Font size",
-      "font_family": "Font family",
-      "toot_padding": "Padding around toots",
+      "font_size": "Tamanho da fonte",
+      "font_family": "Família da fonte",
+      "toot_padding": "Preenchimento ao redor de toots",
       "display_style": {
-        "title": "Display style of username",
-        "display_name_and_username": "Display name and username",
-        "display_name": "Display name",
-        "username": "Username"
+        "title": "Estilo de exibição do nome do usuário",
+        "display_name_and_username": "Nome de exibição e nome do usuário",
+        "display_name": "Nome de exibição",
+        "username": "Nome do usuário"
       },
       "time_format": {
         "title": "Time format",
