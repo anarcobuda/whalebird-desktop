@@ -118,7 +118,7 @@
       "sounds": {
         "title": "Sons",
         "description": "Por favor, defina os sons de retorno.",
-        "fav_rb": "Quando você favorita ou promove o toot",
+        "fav_rb": "Quando você favorita ou compartilhar o toot",
         "toot": "Quando você publica o toot"
       },
       "timeline": {
@@ -193,6 +193,7 @@
       "confirm": "Confirmar",
       "cancel": "Cancelar",
       "confirm_message": "Tem certeza de que quer remover todas as associações?"
+
     },
     "language": {
       "title": "Idioma",
@@ -266,7 +267,7 @@
       "h": "Mudar foco para coluna esquerda",
       "l": "Mudar foco para coluna direita",
       "r": "Responder ao toot",
-      "b": "Reblogue o toot",
+      "b": "Compartilhe o toot",
       "f": "Favorite o toot",
       "o": "Abrir detalhes do toot",
       "p": "Abrir perfil de conta do toot",
@@ -388,8 +389,8 @@
     "members_fetch_error": "Falha ao buscar membros",
     "remove_user_error": "Falha ao remover o usuário",
     "find_account_error": "Conta não encontrada",
-    "reblog_error": "Falha ao reblogar",
-    "unreblog_error": "Falha ao desreblogar",
+    "reblog_error": "Falha ao compartilhar",
+    "unreblog_error": "Falha ao descompartilhar",
     "favourite_error": "Falha ao favoritar",
     "unfavourite_error": "Falha ao desfavoritar",
     "delete_error": "Falha ao remover o toot",
@@ -421,11 +422,11 @@
     },
     "follow": {
       "title": "Seguir",
-      "body": "{{username}} está agora te seguindo"
+      "body": "{{username}} está te seguindo agora"
     },
     "reblog": {
-      "title": "Reblogar",
-      "body": "{{username}} promoveu seu status"
+      "title": "Compartilhar",
+      "body": "{{username}} compartilhou seu status"
     }
   }
 }
