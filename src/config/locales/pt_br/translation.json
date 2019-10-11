@@ -2,60 +2,60 @@
   "main_menu": {
     "application": {
       "name": "Whalebird",
-      "about": "About Whalebird",
-      "preferences": "Preferences...",
-      "services": "Services",
-      "hide": "Hide Whalebird",
-      "hide_others": "Hide Others",
-      "show_all": "Show All",
-      "quit": "Quit"
+      "about": "Sobre o Whalebird",
+      "preferences": "Preferências...",
+      "services": "Serviços",
+      "hide": "Esconder o Whalebird",
+      "hide_others": "Esconder Outros",
+      "show_all": "Mostrar Tudo",
+      "quit": "Sair"
     },
     "toot": {
       "name": "Toot",
-      "new": "New Toot"
+      "new": "Novo Toot"
     },
     "edit": {
-      "name": "Edit",
-      "undo": "Undo",
-      "redo": "Redo",
-      "cut": "Cut",
-      "copy": "Copy",
-      "paste": "Paste",
-      "select_all": "Select All"
+      "name": "Editar",
+      "undo": "Desfazer",
+      "redo": "Refazer",
+      "cut": "Cortar",
+      "copy": "Copiar",
+      "paste": "Colar",
+      "select_all": "Selecionar Tudo"
     },
     "view": {
-      "name": "View",
-      "toggle_full_screen": "Toggle Full Screen"
+      "name": "Ver",
+      "toggle_full_screen": "Alternar Tela Cheia"
     },
     "window": {
-      "name": "Window",
-      "close": "Close Window",
-      "open": "Open Window",
-      "minimize": "Minimize",
-      "jump_to": "Jump to"
+      "name": "Janela",
+      "close": "Fechar Janela",
+      "open": "Abrir Janela",
+      "minimize": "Minimizar",
+      "jump_to": "Pular Para"
     }
   },
   "global_header": {
-    "add_new_account": "Add new account"
+    "add_new_account": "Adicionar nova conta"
   },
   "side_menu": {
-    "profile": "Profile",
-    "show_profile": "Show profile",
-    "edit_profile": "Edit profile",
-    "settings": "Settings",
+    "profile": "Perfil",
+    "show_profile": "Mostrar perfil",
+    "edit_profile": "Editar perfil",
+    "settings": "Configurações",
     "collapse": "Collapse",
-    "expand": "Expand",
-    "home": "Home",
-    "notification": "Notification",
-    "mention": "Mention",
-    "direct": "Direct messages",
-    "follow_requests": "Follow Requests",
-    "favourite": "Favourite",
-    "local": "Local timeline",
-    "public": "Public timeline",
+    "expand": "Expandir",
+    "home": "Página inicial",
+    "notification": "Notificação",
+    "mention": "Mencionar",
+    "direct": "Direcionar mensagens",
+    "follow_requests": "Solicitações para Seguir",
+    "favourite": "Favorito",
+    "local": "Linha do tempo Local",
+    "public": "Linha do tempo Pública",
     "hashtag": "Hashtag",
-    "search": "Search",
-    "lists": "Lists"
+    "search": "Pesquisar",
+    "lists": "Listas"
   },
   "header_menu": {
     "home": "Home",
