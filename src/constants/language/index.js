@@ -23,6 +23,10 @@ export default {
     name: 'Polski',
     key: 'pl'
   },
+  pt_br: {
+    name: 'Português (Brasil)',
+    key: 'pt_br'
+  },
   it: {
     name: 'Italiano',
     key: 'it'
